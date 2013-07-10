@@ -65,7 +65,7 @@
       * github
       * etc
    * Benefits
-      * Health Insurance
+      * [Insurance](benefits/insurance.md)
       * [Paid Leave](benefits/leave.md)
       * [Office Holidays](benefits/holidays.md)
    * Professional Development
